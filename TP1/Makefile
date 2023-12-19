@@ -1,6 +1,6 @@
 .PHONY: all clean
 
-PROGS=boomer
+PROGS=boomer, aléatoire
 CC=gcc
 CFLAGS=
 
