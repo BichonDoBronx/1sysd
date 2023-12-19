@@ -1,6 +1,6 @@
 .PHONY: all clean
 
-PROGS=bommer
+PROGS=boomer
 CC=gcc
 CFLAGS=
 
