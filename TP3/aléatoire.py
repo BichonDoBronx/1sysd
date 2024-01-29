@@ -20,5 +20,3 @@ while not found:
     else:
         found = True;
         print(f"Trouvé ! En {n} coups.");
-
-
